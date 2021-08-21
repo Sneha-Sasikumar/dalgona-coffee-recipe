@@ -1,1 +1,1 @@
-# dalgona-coffee-recipe
+# dalgona-coffee
